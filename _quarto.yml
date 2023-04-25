@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "gardenmagic"
+  title: "Anya Nazarenko"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - grants.qmd
       - about.qmd
+      - posts.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: solar
     css: styles.css
     toc: true
 

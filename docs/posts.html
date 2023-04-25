@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Anya Nazarenko - Publications and Presentations</title>
+<title>Anya Nazarenko - My Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,7 +60,37 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -88,11 +120,11 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Grants</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page">
+    <a class="nav-link" href="./about.html">
  <span class="menu-text">Publications and Presentations</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html">
+    <a class="nav-link active" href="./posts.html" aria-current="page">
  <span class="menu-text">My Blog</span></a>
   </li>  
 </ul>
@@ -106,21 +138,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#reports-and-other-publications" id="toc-reports-and-other-publications" class="nav-link active" data-scroll-target="#reports-and-other-publications">Reports and Other Publications</a></li>
-  <li><a href="#conference-proceedings" id="toc-conference-proceedings" class="nav-link" data-scroll-target="#conference-proceedings">Conference Proceedings</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Modern Scientist">Modern Scientist <span class="quarto-category-count">(1)</span></div><div class="category" data-category="PQHS432">PQHS432 <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Publications and Presentations</h1>
+<h1 class="title">My Blog</h1>
 </div>
 
 
@@ -135,26 +160,52 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="reports-and-other-publications" class="level2">
-<h2 class="anchored" data-anchor-id="reports-and-other-publications">Reports and Other Publications</h2>
-<p>Riske-Morris, M., <strong>Nazarenko, A</strong>., Thomas, R., Flannery, D (2022). <em>City of Cleveland Co-Responder Program: Year Three Evaluation Report</em>. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.</p>
-<p>Issa, R., Jarus, K., Thomas, R., <strong>Nazarenko, A</strong>., Youngless, J (2023). <em>Mental Health Response and Advisory Committee (MHRAC): Annual Report 2022</em>. QI Subcommittee, Mental Health Response and Advisory Committee, Cleveland, Ohio.</p>
-<p>Hussey, D., Riske-Morris, M., Flynn, K., <strong>Nazarenko, A</strong>., Olgac, T., Fulton, S (2022). <em>Cuyahoga County Early Jail Diversion Program (CIT PLUS): Year Four Evaluation Report</em>. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.</p>
-<p>Riske-Morris, M., Hussey, D., Lewis, K., Flynn, K., Fulton, S., Olgac, T., <strong>Nazarenko, A</strong>., McCann, E (2022). <em>The Centers for Families and Children Certified Community Behavioral Health Center Project: Year One Evaluation Report</em>. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.</p>
-<p>Riske-Morris. M., Hussey D., Olgac, T., Overman, L., McCann, E., Ogonek, M., Fulton, S., <strong>Nazarenko, A</strong>., Flynn, K (2022). <em>The Centers for Families and Children Community Mental Health Center Project: Year One Evaluation Report</em>. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.</p>
-<p>Riske-Morris, M., Hussey, D., Olgac, T., Lewis, K., Flynn, K., McCann, E., Fulton, S., Ogonek, M., <strong>Nazarenko, A</strong> (2022). <em>Crossroads Health Certified Community Behavioral Health Center Project: Year Two Semiannual Evaluation Report</em>. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.</p>
-<p>Hussey, D., Riske-Morris, M., Flynn, K., Fulton, S., <strong>Nazarenko, A</strong>., Overman, L., Ferrante, A (2020). <em>Cuyahoga County Assisted Outpatient Treatment (AOT) Pilot Report: Final Evaluation Report</em>. Begun Center for Violence Prevention Research and Education, Jack, Joseph and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.</p>
-<hr>
-</section>
-<section id="conference-proceedings" class="level2">
-<h2 class="anchored" data-anchor-id="conference-proceedings">Conference Proceedings</h2>
-<p><strong>Nazarenko, A</strong>., Riske-Morris, M., Thomas, R., Flannery, D. (2023, Mar 14-18) <em>The Multi-Faceted Benefits of Police Co-Responder Program to Help Those in Crisis: The City of Cleveland Police Co-Responder Program.</em> Academy of Criminal Justice Sciences (ACJS) 60<sup>th</sup> Annual Meeting. Washington, D.C., United States.</p>
-<p>Ballard, C., Cecys, A., Leonardi, C., <strong>Nazarenko, A</strong>. (2022, Mar 11) <em>City of Cleveland Co-Responder Team: Reimagining Social Work.</em> Cuyahoga County Conference on Social Welfare (CCCSW) 2022. Virtual.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Modern Scientist,PQHS432" data-listing-file-modified-sort="1682461441507" data-listing-reading-time-sort="4.5">
+<div class="thumbnail">
+<p><a href="./posts/2023-04-25-modern-scientist/index.html"> <img src="./posts/2023-04-25-modern-scientist/ms.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/2023-04-25-modern-scientist/index.html">
+<h3 class="no-anchor listing-title">
+Pondering ‘How to Be a Modern Scientist’ by Jeff Leek
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Modern Scientist'); return false;">
+Modern Scientist
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('PQHS432'); return false;">
+PQHS432
+</div>
+</div>
+<a href="./posts/2023-04-25-modern-scientist/index.html">
+<div class="listing-description">
+<p>I explore some of the things I learned from reading ‘How to Be a Modern Scientist’ by Jeff Leek and how I’ve started applying these ideas in my everyday life.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2023-04-25-modern-scientist/index.html">
+<div class="listing-author">
+Anya Nazarenko
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

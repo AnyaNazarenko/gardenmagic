@@ -1,0 +1,32 @@
+---
+title: "Pondering 'How to Be a Modern Scientist' by Jeff Leek"
+description: "I explore some of the things I learned from reading 'How to Be a Modern Scientist' by Jeff Leek and how I've started applying these ideas in my everyday life."
+author: 
+  - name: Anya Nazarenko
+date-modified: 2023-04-25
+categories: [Modern Scientist, PQHS432]
+citation:
+  url: https://anyanazarenko.github.io/gardenmagic/posts/2023-04-25-modern-scientist/
+image: ms.jpg
+draft: false
+---
+
+This past semester, I've really made an effort to grow more as a data scientist. In many ways, I've come out of my shell and stepped into arenas that previously made me feel uncomfortable and out of my element. Some of that could be a direct result of the things I picked up, intentionally or by osmosis, from reading Jeff Leek's "How to Be a Modern Scientist" (which can be accessed via Leanpub at the following link: [How to Be Modern Scientist](https://leanpub.com/modernscientist)).
+
+## How to Be a Modern Scientist
+
+One of the biggest takeaways from reading "How to Be a Modern Scientist" was that I should put myself and my work out into the scientific community. Whether that's through building a personal website, blogging, having a public Twitter feed, or engaging in scientific talks, Jeff Leek urges his readers to get out there and "accept pretty much every opportunity to speak about your research you get" (Leek, 2016). When it comes to scientific talks and presentations, Leek suggests that of most importance is just getting out there and meeting people. He urges "don't forget to talk to people before, after, and during your talk" (Leek, 2016).
+
+Leek also spent some time discussing how to start a scientific blog and how to use your Twitter feed to engage with others in the scientific community. As far as blogging, the things that inspired me the most were the goals of blogging either to "raise your profile" or "just for fun" (Leek, 2016). Blogging can provide the opportunity to "show-off your storytelling or communication skills" or your "data visualization skills" (Leek, 2016). Or blogging can provide a fun outlet or a short term project to explore other research questions or showcase some of the things you've been working on. Social media could also be used to engage with others in the scientific community. Leek highlighted the emergence of Twitter as a platform with widespread reach that's often used to share new ideas and engage others in open dialogue about your research. Leek pointed out that you don't need to "develop original content" but can just share work and "add brief commentary and ideas" to boost your following (Leek, 2016). Leek also urged readers to beware of "hot button issues" and the "consequences of wading into these discussions" (Leek, 2016). Leek discussed a variety of platforms that can be used to share ideas, particularly Twitter, Facebook, Instagram - he mentioned Vine (which shows how quickly technology moves in this day and age!) but a more relevant reference would be to TikTok! Leek also suggested creating an online identity and making it consistent across platforms to make it easier for others to find and follow you.
+
+## How I Am Trying to Be a Modern Scientist
+
+So what does all of that have to do with me? This semester was the first time I really felt like "a modern scientist". I attended my first out-of-state, in-person conference where I presented my research entirely on my own. I started my first blog. I finished my first full year of grad school. I'm applying the methods I learned in class to my professional research. I'm stepping into the role of "modern scientist" and incorporating a lot of what I've learned from Jeff Leek.
+
+When giving my first "scientific talk" where I presented my research to others in my field, I took the time to talk to my audience and presenters from other institutions both before and after my presentation. The result was also that I was a lot less nervous about public speaking - the goal of my presentation was no longer to practice public speaking but rather to get my audience excited about my work and to engage with me. It felt more like an open dialogue than a scripted presentation. That experience backed everything I read in "How to Be a Modern Scientist" about scientific talks.
+
+I also plan to take my blogging more seriously. This blog post being my first, I intend to use the rest of this blog to demonstrate my data visualization skills and to share fun ways I can use data. I'd like for this blog to be a fun outlet for me to engage others in my work and my interests. I was previously quite hesitant about putting myself out there - I'm introverted and lead a very private life. But I think that blogging is a great compromise for me because despite Leek's suggestions, I don't plan on using social media professionally! While Leek outlined the many benefits of using social media to develop an online presence in the scientific community, I have to say that I disagree. I don't believe that there will come a time when crafting an online social media presence will be relevant for my professional work, but blogging can certainly be used to demonstrate my abilities and interests in a positive way without sacrificing my privacy!
+
+Ultimately, the biggest takeaway that I got from reading "How to Be a Modern Scientist" is that there are a multitude of ways to be a modern scientist and make a name for yourself - publications, social media, blogging, teaching, reading, data sharing - the list goes on! But what's most important is to pursue things that you are interested in and to share those passions and interests with others in a way that feels comfortable to you.
+
+Now that this modern scientist is reporting for duty, stay tuned for more blog posts!

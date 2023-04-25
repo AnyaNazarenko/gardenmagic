@@ -1,9 +1,27 @@
 ---
-title: "About"
+title: "Publications and Presentations"
 ---
 
-About this site
+## Reports and Other Publications
 
-```{r}
-1 + 1
-```
+Riske-Morris, M., **Nazarenko, A**., Thomas, R., Flannery, D (2022). *City of Cleveland Co-Responder Program: Year Three Evaluation Report*. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.
+
+Issa, R., Jarus, K., Thomas, R., **Nazarenko, A**., Youngless, J (2023). *Mental Health Response and Advisory Committee (MHRAC): Annual Report 2022*. QI Subcommittee, Mental Health Response and Advisory Committee, Cleveland, Ohio.
+
+Hussey, D., Riske-Morris, M., Flynn, K., **Nazarenko, A**., Olgac, T., Fulton, S (2022). *Cuyahoga County Early Jail Diversion Program (CIT PLUS): Year Four Evaluation Report*. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.
+
+Riske-Morris, M., Hussey, D., Lewis, K., Flynn, K., Fulton, S., Olgac, T., **Nazarenko, A**., McCann, E (2022). *The Centers for Families and Children Certified Community Behavioral Health Center Project: Year One Evaluation Report*. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.
+
+Riske-Morris. M., Hussey D., Olgac, T., Overman, L., McCann, E., Ogonek, M., Fulton, S., **Nazarenko, A**., Flynn, K (2022). *The Centers for Families and Children Community Mental Health Center Project: Year One Evaluation Report*. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.
+
+Riske-Morris, M., Hussey, D., Olgac, T., Lewis, K., Flynn, K., McCann, E., Fulton, S., Ogonek, M., **Nazarenko, A** (2022). *Crossroads Health Certified Community Behavioral Health Center Project: Year Two Semiannual Evaluation Report*. Begun Center for Violence Prevention Research and Education, Jack, Joseph, and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.
+
+Hussey, D., Riske-Morris, M., Flynn, K., Fulton, S., **Nazarenko, A**., Overman, L., Ferrante, A (2020). *Cuyahoga County Assisted Outpatient Treatment (AOT) Pilot Report: Final Evaluation Report*. Begun Center for Violence Prevention Research and Education, Jack, Joseph and Morton Mandel School of Applied Social Sciences, Case Western Reserve University. Cleveland, Ohio.
+
+------------------------------------------------------------------------
+
+## Conference Proceedings
+
+**Nazarenko, A**., Riske-Morris, M., Thomas, R., Flannery, D. (2023, Mar 14-18) *The Multi-Faceted Benefits of Police Co-Responder Program to Help Those in Crisis: The City of Cleveland Police Co-Responder Program.* Academy of Criminal Justice Sciences (ACJS) 60^th^ Annual Meeting. Washington, D.C., United States.
+
+Ballard, C., Cecys, A., Leonardi, C., **Nazarenko, A**. (2022, Mar 11) *City of Cleveland Co-Responder Team: Reimagining Social Work.* Cuyahoga County Conference on Social Welfare (CCCSW) 2022. Virtual.

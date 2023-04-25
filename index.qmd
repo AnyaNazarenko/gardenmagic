@@ -1,11 +1,47 @@
 ---
-title: "gardenmagic"
+title: "Anya Nazarenko"
+image: headshot.jpg
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://linkedin.com/in/anya-nazarenko
+    - text: GitHub
+      href: https://github.com/AnyaNazarenko
+    - text: Email
+      href: mailto:asn30@case.edu
 ---
 
-This is a Quarto website.
+# About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a member of the research staff at the Begun Center for Violence Prevention Research and Education at Case Western Reserve University. My research focuses primarily on the intersection between law enforcement and individuals with mental illness. I am currently the research coordinator for the City of Cleveland Police Co-Responder Program and a member of the Cleveland Division of Police Settlement Agreement Data Team.
 
-```{r}
-1 + 1
-```
+When I'm not trying to solve real-world problems using data, I can frequently be found climbing at the New River Gorge, planting heirloom vegetables in my front yard garden, or hiking with my husband and three dogs.
+
+------------------------------------------------------------------------
+
+# Education
+
+**Case Western Reserve University** \| Cleveland, OH \| Graduate Studies \| May 2024
+
+**Case Western Reserve University** \| Cleveland, OH \| BA in Psychology \| May 2013
+
+------------------------------------------------------------------------
+
+# Research and Professional Work Experience
+
+**Case Western Reserve University** \| Research Assistant 4 \| January 2020 - Present
+
+**The Centers for Families and Children** \| Therapeutic Behavioral Specialist \| March 2018 - December 2019
+
+**OhioGuidestone** \| Community Mental Health Worker \| July 2014 - January 2016
+
+------------------------------------------------------------------------
+
+# Additional Professional Affiliations
+
+**Mental Health Response and Advisory Committee (MHRAC)** \| **QI Subcommittee** \| City of Cleveland Settlement Agreement \| Begun Center for Violence Prevention Research and Education \| *Research Assistant*
+
+**Settlement Agreement Data Team** \| City of Cleveland Settlement Agreement \| Begun Center for Violence Prevention Research and Education \| *Research Assistant*
